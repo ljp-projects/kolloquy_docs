@@ -23,13 +23,6 @@ const convertMarkdown = async (inputFile, outputFile) => {
 <html>
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
-    <style>
-        @media (prefers-color-scheme: dark) {
-            * {
-                --background: #20382D !important;
-            }
-        }
-    </style>
 </head>
 <body>
 ${result.slice(null, -1)}
