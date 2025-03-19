@@ -21,5 +21,8 @@ To use Kolloquy, you must be 13 or older.
 
 ## Privacy
 
-### How We Store Your Messages
+### Data We Collect
+When you use Kolloquy, we collect some data when you create your account, like 
+
+### How We Store Data
 Your messages are stored as an end-to-end-encrypted (E2EE) log file containing every message that has been sent. **We cannot see the messages that you send**. 
